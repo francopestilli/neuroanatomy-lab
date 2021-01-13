@@ -4,8 +4,11 @@ You can use the [editor on GitHub](https://github.com/francopestilli/neuroanat-c
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Overview of the brain cortex
 
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/4ce37c5619f64cb7a19962d0ce6d4d3b/embed?
+                                                             
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
