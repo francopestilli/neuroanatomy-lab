@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <p>
 <div class="sketchfab-embed-wrapper">
-    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/4ce37c5619f64cb7a19962d0ce6d4d3b/embed?
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/4ce37c5619f64cb7a19962d0ce6d4d3b/embed?"
 </p>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
