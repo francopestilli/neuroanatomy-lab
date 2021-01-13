@@ -12,13 +12,14 @@ The modl
 
 
 #### The brain subcortical connective structures and white matter. 
+##### Cortex
 The model shows portions of the corona radiata, Inferior Fronto Occipital Fasciculus (IFOF), and Uncinate. The strcutres are not labeled.
 
 [sketchfab]0033fa844e9f4e55a6b940fba3fe45d5[/sketchfab]
     [url=https://sketchfab.com/3d-models/brain-subcortical-fibres-0033fa844e9f4e55a6b940fba3fe45d5]Brain subcortical fibres[/url] by [url=https://sketchfab.com/ubcmedvid]The Hive - UBC Medicine[/url] on [url=https://sketchfab.com]Sketchfab[/url]
 
-
-Another view of the subcortical strcutres and white matter. This specimen shows the optic radiation (connecting the Superior Lateral Geniculate in the Thalamus with the Visual cortex in the Occipiatl Lobe).
+##### White Matter
+Another view of the subcortical structures and white matter. This specimen shows the optic radiation (connecting the Superior Lateral Geniculate in the Thalamus with the Visual cortex in the Occipiatl Lobe).
 
 [sketchfab]a3a9b017235c413aaaecbfa85ce087ab[/sketchfab]
     [url=https://sketchfab.com/3d-models/brain-showing-optic-radiations-a3a9b017235c413aaaecbfa85ce087ab]Brain showing optic radiations[/url] by [url=https://sketchfab.com/ubcmedvid]The Hive - UBC Medicine[/url] on [url=https://sketchfab.com]Sketchfab[/url]
@@ -32,6 +33,7 @@ This view shows a variety of limbic Structures with appropriate labels.
 
 ### The brain from the outside: The Meninges – Dura Mater, Arachnoid the Subarachnoid space.
 
+#### The Brain Meninges
 The 3D model below shows the brain cortex partially wrapped in the brain meniges (Dura Mater and Ararchnoid).
 
 [sketchfab]4ce37c5619f64cb7a19962d0ce6d4d3b[/sketchfab]
