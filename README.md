@@ -1,17 +1,45 @@
-## Welcome to GitHub Pages
+## Laboratory in Neuroanatomy
 
-You can use the [editor on GitHub](https://github.com/francopestilli/neuroanat-class/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The content of this page is maintained by [Franco Pestilli](https://liberalarts.utexas.edu/psychology/faculty/fp4834) on [GitHub](https://github.com/francopestilli/neuroanat-class/edit/main/README.md).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This virtual lab in neuroanatomy is subdivided into different sections. The early sections focus on anatomical strcutre, terms and organization. Later strcutres focus on the role that some of the structures play in human cognition, perception and disease.
 
-### Overview of the brain cortex
+### The brain from the outside: Overview of the brain cortex and white matter.
+
+#### The brain cortex.
+The modl
+
+
+
+#### The brain subcortical connective structures and white matter. 
+The model shows portions of the corona radiata, Inferior Fronto Occipital Fasciculus (IFOF), and Uncinate. The strcutres are not labeled.
+
+[sketchfab]0033fa844e9f4e55a6b940fba3fe45d5[/sketchfab]
+    [url=https://sketchfab.com/3d-models/brain-subcortical-fibres-0033fa844e9f4e55a6b940fba3fe45d5]Brain subcortical fibres[/url] by [url=https://sketchfab.com/ubcmedvid]The Hive - UBC Medicine[/url] on [url=https://sketchfab.com]Sketchfab[/url]
+
+Another view of the subcortical strcutres and white matter. This specimen shows the optic radiation (connecting the Superior Lateral Geniculate in the Thalamus with the Visual cortex in the Occipiatl Lobe).
+
+[sketchfab]a3a9b017235c413aaaecbfa85ce087ab[/sketchfab]
+    [url=https://sketchfab.com/3d-models/brain-showing-optic-radiations-a3a9b017235c413aaaecbfa85ce087ab]Brain showing optic radiations[/url] by [url=https://sketchfab.com/ubcmedvid]The Hive - UBC Medicine[/url] on [url=https://sketchfab.com]Sketchfab[/url]
+
+This view shows a variety of limbic Structures with appropriate labels.
+[sketchfab]f201c8699b7f4f1dad569783d86ec41f[/sketchfab]
+    [url=https://sketchfab.com/3d-models/limbic-system-f201c8699b7f4f1dad569783d86ec41f]Limbic System[/url] by [url=https://sketchfab.com/ubcmedvid]The Hive - UBC Medicine[/url] on [url=https://sketchfab.com]Sketchfab[/url]
+
+
+### The brain from the outside: The Meninges – Dura Mater, Arachnoid the Subarachnoid space.
+
+The 3D model below shows the brain cortex partially wrapped in the brain meniges (Dura Mater and Ararchnoid).
 
 [sketchfab]4ce37c5619f64cb7a19962d0ce6d4d3b[/sketchfab]
     [url=https://sketchfab.com/3d-models/3d-brain-wo-arachnoid-4ce37c5619f64cb7a19962d0ce6d4d3b]3d_Brain_wo_arachnoid[/url] by [url=https://sketchfab.com/SBCVL_UCSF]SBCVL_UCSF[/url] on [url=https://sketchfab.com]Sketchfab[/url]
 
+The 3D model below shows the brain cortex partially wrapped in the Ararchnoid. The right hemisphere is still wrapped, the left hemisphere has been freed of the meninges.
 
+[sketchfab]3752f5a2e17d48fbafd6856360b959da[/sketchfab]
+    [url=https://sketchfab.com/3d-models/brain-before-sections-3752f5a2e17d48fbafd6856360b959da]Brain Before Sections[/url] by [url=https://sketchfab.com/ubcmedvid]The Hive - UBC Medicine[/url] on [url=https://sketchfab.com]Sketchfab[/url]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This mode shows how the different meniges
 
 ```markdown
 Syntax highlighted code block
