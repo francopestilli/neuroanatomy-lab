@@ -6,8 +6,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Overview of the brain cortex
 
-[sketchfab]4ce37c5619f64cb7a19962d0ce6d4d3b[/sketchfab]
-    [url=https://sketchfab.com/3d-models/3d-brain-wo-arachnoid-4ce37c5619f64cb7a19962d0ce6d4d3b]3d_Brain_wo_arachnoid[/url] by [url=https://sketchfab.com/SBCVL_UCSF]SBCVL_UCSF[/url] on 
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/4ce37c5619f64cb7a19962d0ce6d4d3b/embed?autostart=0&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/3d-brain-wo-arachnoid-4ce37c5619f64cb7a19962d0ce6d4d3b?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">3d_Brain_wo_arachnoid</a>
+        by <a href="https://sketchfab.com/SBCVL_UCSF?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">SBCVL_UCSF</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
