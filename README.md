@@ -6,9 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Overview of the brain cortex
 
-[sketchfab]3752f5a2e17d48fbafd6856360b959da[/sketchfab]
-    [url=https://sketchfab.com/3d-models/brain-before-sections-3752f5a2e17d48fbafd6856360b959da]Brain Before Sections[/url] by [url=https://sketchfab.com/ubcmedvid]The Hive - UBC Medicine[/url] on [url=https://sketchfab.com]Sketchfab[/url]
-
+[sketchfab]4ce37c5619f64cb7a19962d0ce6d4d3b[/sketchfab]
+    [url=https://sketchfab.com/3d-models/3d-brain-wo-arachnoid-4ce37c5619f64cb7a19962d0ce6d4d3b]3d_Brain_wo_arachnoid[/url] by [url=https://sketchfab.com/SBCVL_UCSF]SBCVL_UCSF[/url] on 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
