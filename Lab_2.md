@@ -66,3 +66,5 @@
 
 
 ###### Back to [Laboratory in Neuroanatomy](https://francopestilli.github.io/neuroanatomy-lab/)
+
+###### The content of this page is maintained by [Franco Pestilli](https://liberalarts.utexas.edu/psychology/faculty/fp4834) on [GitHub](https://github.com/francopestilli/neuroanat-class/edit/main/README.md).
