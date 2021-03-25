@@ -35,18 +35,18 @@ Below the links to each lecture with topics and structures.
   - Major gyri of the cerebral cortex
   
 - Cranial nerves
-  (I) Olfactory.
-  (II) Optic.
-  (III) Oculomotor.
-  (IV) Trochlear.
-  (V) Trigeminal. 
-  (VI) Abducent.
-  (VII) Facial.
-  (VIII) Vestibulocochlear. 
-  (IX) Glossopharingeal.
-  (X) Vagus Nerve. 
-  (XI) Spinal Accessory. 
-  (XII) Hypoglossal. 
+  (I) Olfactory.  
+  (II) Optic.  
+  (III) Oculomotor.  
+  (IV) Trochlear.  
+  (V) Trigeminal.  
+  (VI) Abducent.  
+  (VII) Facial.  
+  (VIII) Vestibulocochlear.  
+  (IX) Glossopharingeal.  
+  (X) Vagus Nerve.  
+  (XI) Spinal Accessory.  
+  (XII) Hypoglossal.  
 
 
 
