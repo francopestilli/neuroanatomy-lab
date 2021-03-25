@@ -1,4 +1,4 @@
-## [Laboratory in Neuroanatomy](https://francopestilli.github.io/neuroanat-class/)
+## [Laboratory in Neuroanatomy](https://francopestilli.github.io/neuroanatomy-lab/)
 
 
 ### The Insula
@@ -14,4 +14,4 @@
 </div>
 
 
-## [Back to Laboratory in Neuroanatomy](https://francopestilli.github.io/neuroanat-class/)
+## Back to [Laboratory in Neuroanatomy](https://francopestilli.github.io/neuroanatomy-lab/)
