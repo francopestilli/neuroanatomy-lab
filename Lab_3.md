@@ -49,7 +49,19 @@
   (X) Vagus Nerve– it innervates the Neck, the thorax, and the abdomen.   
   (XI) Spinal Accessory Nerve– it is a motor nerve involved in controlling the head movements.  
   (XII) Hypoglossal Nerve– The hypoglossal nerve supplies the muscles of the tongue.  
-  
+
+Model of the cranial nerves.
+
+  <div class="sketchfab-embed-wrapper">
+    <iframe title="Cranial Nerves and Brain Stem" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="640" height="480" src="https://sketchfab.com/models/2792c4a8600b4984960c5caf949feb4d/embed">
+    </iframe>
+   <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/cranial-nerves-and-brain-stem-2792c4a8600b4984960c5caf949feb4d?utm_medium=embed&utm_campaign=share-popup&utm_content=2792c4a8600b4984960c5caf949feb4d" target="_blank" style="font-weight: bold; color: #1CAAD9;">Cranial Nerves and Brain Stem</a>
+        by <a href="https://sketchfab.com/Ebers?utm_medium=embed&utm_campaign=share-popup&utm_content=2792c4a8600b4984960c5caf949feb4d" target="_blank" style="font-weight: bold; color: #1CAAD9;">Ebers</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=2792c4a8600b4984960c5caf949feb4d" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
+
 - Other
 
 
