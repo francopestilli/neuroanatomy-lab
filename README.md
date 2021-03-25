@@ -48,5 +48,43 @@ Below the links to each lecture with topics and structures.
   (XI) Spinal Accessory.  
   (XII) Hypoglossal.  
 
+4. [Virtual Lab 4](Lab_4.md)
+*Basal Ganglia and Subcortical structures.*
+
+- Putamen.
+- Extreme Capsule.
+- Claustrum.
+- Insula.
+- Caudate.
+- Thalamus.
+- Hippocampus.
+- Amygdala.
+
+5. [Virtual Lab 5](Lab_5.md)
+*Cerebellum and Ventricular System.*
+
+- Cerebellum
+  - Fissures.
+  - Vermis.
+  - Cerebellar Lobes.
+  - Cerebellar Hemispheres.
+  
+- Ventricles.
+  - First. 
+  - Second. 
+  - Third.
+  - Fourth. 
+  - Choroidal Plexus.
+
+6. [Virtual Lab 6](Lab_6.md)
+*The Brainstem.*
+
+- Brainstem. 
+- Pons.
+- Olive.
+- Pyramid.
+- Peduncles.
+
+
 
 
