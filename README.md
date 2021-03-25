@@ -34,7 +34,7 @@ Below the links to each lecture with topics and structures.
   - Major sulci of the cerebral cortex
   - Major gyri of the cerebral cortex
   
-- Cranial nerves. 
+- Cranial nerves.  
   (I) Olfactory.  
   (II) Optic.  
   (III) Oculomotor.  
