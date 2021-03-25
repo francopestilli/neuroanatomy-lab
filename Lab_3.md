@@ -1,4 +1,4 @@
-## [Laboratory in Neuroanatomy](https://francopestilli.github.io/neuroanat-class/)
+## [Laboratory in Neuroanatomy](https://francopestilli.github.io/neuroanatomy-lab/)
 
 ## The Cerebral Cortex and the Cranial Nerves
 
@@ -53,4 +53,4 @@
 - Other
 
 
-## [Back to Laboratory in Neuroanatomy](https://francopestilli.github.io/neuroanat-class/)
+## Back to [Laboratory in Neuroanatomy](https://francopestilli.github.io/neuroanatomy-lab/)
