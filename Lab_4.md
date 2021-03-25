@@ -14,4 +14,4 @@
 </div>
 
 
-## Back to [Laboratory in Neuroanatomy](https://francopestilli.github.io/neuroanatomy-lab/)
+###### Back to [Laboratory in Neuroanatomy](https://francopestilli.github.io/neuroanatomy-lab/)
