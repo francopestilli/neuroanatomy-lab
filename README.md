@@ -4,9 +4,9 @@ The content of this page is maintained by [Franco Pestilli](https://liberalarts.
 
 This virtual lab in neuroanatomy is subdivided into different sections. The early sections focus on anatomical strcutre, terms and organization. Later strcutres focus on the role that some of the structures play in human cognition, perception and disease.
 
-### Each week we will have a lecture covering parts of the brain strctures
+### Lab modules
 
-Below the links to each lecture with topics and structures.
+Each week we will have a lecture covering parts of the brain strctures. Below the links to labs cooresponding to each lecture and week with topics and structures.
 
 1. [Virtual Lab 1](Lab_1.md)
 *Cells of the Nervous System, Cortical Layers, and White Matter.*
