@@ -4,7 +4,7 @@
 
 ### The packaging of the brain
  
-Lateral view of the dura mater.
+#### Lateral view of the dura mater.
 
 <div class="sketchfab-embed-wrapper">
     <iframe title="Brain - Whole, With Dura, Labeled" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="640" height="480" src="https://sketchfab.com/models/80ab0b52b6cb4ce8afceaf7808c16aec/embed">
@@ -13,6 +13,18 @@ Lateral view of the dura mater.
         <a href="https://sketchfab.com/3d-models/brain-whole-with-dura-labeled-80ab0b52b6cb4ce8afceaf7808c16aec?utm_medium=embed&utm_campaign=share-popup&utm_content=80ab0b52b6cb4ce8afceaf7808c16aec" target="_blank" style="font-weight: bold; color: #1CAAD9;">Brain - Whole, With Dura, Labeled</a>
         by <a href="https://sketchfab.com/bluelinkanatomy?utm_medium=embed&utm_campaign=share-popup&utm_content=80ab0b52b6cb4ce8afceaf7808c16aec" target="_blank" style="font-weight: bold; color: #1CAAD9;">Bluelink Anatomy - University of Michigan</a>
         on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=80ab0b52b6cb4ce8afceaf7808c16aec" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
+
+#### Brain half covered by Arachnoid mater, half subarachnoidal
+
+<div class="sketchfab-embed-wrapper">
+    <iframe title="Brain" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="640" height="480" src="https://sketchfab.com/models/c4f33eec85d74782bc3bd2b241983ff8/embed">
+    </iframe>
+   <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/brain-c4f33eec85d74782bc3bd2b241983ff8?utm_medium=embed&utm_campaign=share-popup&utm_content=c4f33eec85d74782bc3bd2b241983ff8" target="_blank" style="font-weight: bold; color: #1CAAD9;">Brain</a>
+        by <a href="https://sketchfab.com/aherrler?utm_medium=embed&utm_campaign=share-popup&utm_content=c4f33eec85d74782bc3bd2b241983ff8" target="_blank" style="font-weight: bold; color: #1CAAD9;">aherrler</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=c4f33eec85d74782bc3bd2b241983ff8" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
     </p>
 </div>
 
