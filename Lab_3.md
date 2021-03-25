@@ -1,4 +1,16 @@
-## The Cranial Nerves
+## The Cerebral Cortex and the Cranial Nerves
+
+### The Cerebral Cortex
+
+<div class="sketchfab-embed-wrapper">
+    <iframe title="Lateral surface of the hemisphere" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="640" height="480" src="https://sketchfab.com/models/c15e42ff590c4f8aa20276dfb5b15bc3/embed">
+    </iframe>
+   <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/lateral-surface-of-the-hemisphere-c15e42ff590c4f8aa20276dfb5b15bc3?utm_medium=embed&utm_campaign=share-popup&utm_content=c15e42ff590c4f8aa20276dfb5b15bc3" target="_blank" style="font-weight: bold; color: #1CAAD9;">Lateral surface of the hemisphere</a>
+        by <a href="https://sketchfab.com/IT_Lab?utm_medium=embed&utm_campaign=share-popup&utm_content=c15e42ff590c4f8aa20276dfb5b15bc3" target="_blank" style="font-weight: bold; color: #1CAAD9;">TavorLab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=c15e42ff590c4f8aa20276dfb5b15bc3" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
 
 ### The Cranial nerves
 
