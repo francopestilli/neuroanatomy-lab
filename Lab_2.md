@@ -3,10 +3,30 @@
 ## Brain Packaging and Blood Supply.
 
 ### The packaging of the brain
-  - The Skull 
-  - Dura mater
-  - Arachnoid
-  - Pia Mater
+ 
+Lateral view of the dura mater.
+
+<div class="sketchfab-embed-wrapper">
+    <iframe title="Brain - Whole, With Dura, Labeled" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="640" height="480" src="https://sketchfab.com/models/80ab0b52b6cb4ce8afceaf7808c16aec/embed">
+    </iframe>
+   <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/brain-whole-with-dura-labeled-80ab0b52b6cb4ce8afceaf7808c16aec?utm_medium=embed&utm_campaign=share-popup&utm_content=80ab0b52b6cb4ce8afceaf7808c16aec" target="_blank" style="font-weight: bold; color: #1CAAD9;">Brain - Whole, With Dura, Labeled</a>
+        by <a href="https://sketchfab.com/bluelinkanatomy?utm_medium=embed&utm_campaign=share-popup&utm_content=80ab0b52b6cb4ce8afceaf7808c16aec" target="_blank" style="font-weight: bold; color: #1CAAD9;">Bluelink Anatomy - University of Michigan</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=80ab0b52b6cb4ce8afceaf7808c16aec" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
+
+#### Model of the Skull, Dura Mater, Archnoid, Pia Mater and Sinuses
+
+<div class="sketchfab-embed-wrapper">
+    <iframe title="Brain meninges labelled detailed" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="640" height="480" src="https://sketchfab.com/models/15c31d26f2c3460ab46f8bd70243352c/embed">
+    </iframe>
+   <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/brain-meninges-labelled-detailed-15c31d26f2c3460ab46f8bd70243352c?utm_medium=embed&utm_campaign=share-popup&utm_content=15c31d26f2c3460ab46f8bd70243352c" target="_blank" style="font-weight: bold; color: #1CAAD9;">Brain meninges labelled detailed</a>
+        by <a href="https://sketchfab.com/Deepankar.Parmar?utm_medium=embed&utm_campaign=share-popup&utm_content=15c31d26f2c3460ab46f8bd70243352c" target="_blank" style="font-weight: bold; color: #1CAAD9;">Deepankar.Parmar</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=15c31d26f2c3460ab46f8bd70243352c" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
 
 ### Blood Supply
 
