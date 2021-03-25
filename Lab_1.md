@@ -1,4 +1,4 @@
-## [Laboratory in Neuroanatomy](https://francopestilli.github.io/neuroanat-class/)
+## [Laboratory in Neuroanatomy](https://francopestilli.github.io/neuroanatomy-lab/)
 
 ### Overview of the brain structures
 
@@ -100,4 +100,4 @@ This view shows a variety of limbic Structures with appropriate labels.
     </p>
 </div>
 
-## [Back to Laboratory in Neuroanatomy](https://francopestilli.github.io/neuroanat-class/)
+## Back to [Laboratory in Neuroanatomy](https://francopestilli.github.io/neuroanatomy-lab/)
