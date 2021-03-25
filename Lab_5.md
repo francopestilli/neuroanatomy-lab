@@ -1,3 +1,5 @@
+## [Laboratory in Neuroanatomy](https://francopestilli.github.io/neuroanat-class/)
+
 ## The Cerebellum
 
 ### The cerebellum with labelled structures
@@ -39,3 +41,5 @@ A wax-cast model of the human ventricular system.
         on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=61ad0d60bfc640fc9678caa93bcb797a" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
     </p>
 </div>
+
+## [Back to Laboratory in Neuroanatomy](https://francopestilli.github.io/neuroanat-class/)
