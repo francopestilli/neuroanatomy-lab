@@ -13,7 +13,7 @@
 
 ##### Circle of Willis within a dissected kull:
 <div class="sketchfab-embed-wrapper">
-    <iframe title="Head with circle of willis" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/23e42faad8594cfca2d4e457ab754d16/embed">
+    <iframe title="Head with circle of willis" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/23e42faad8594cfca2d4e457ab754d16/embed?ui_watermark_link=0&ui_watermark=0">
     </iframe>
    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/head-with-circle-of-willis-23e42faad8594cfca2d4e457ab754d16?utm_medium=embed&utm_campaign=share-popup&utm_content=23e42faad8594cfca2d4e457ab754d16" target="_blank" style="font-weight: bold; color: #1CAAD9;">Head with circle of willis</a>
