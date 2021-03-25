@@ -31,8 +31,9 @@ Below the links to each lecture with topics and structures.
 3. [Virtual Lab 3](Lab_3.md)
 *Cerebral Cortex and Cranial Nerves.*
 - The cortex
-..- Major sulci of the cerebral cortex
-..- Major gyri of the cerebral cortex
+  - Major sulci of the cerebral cortex
+  - Major gyri of the cerebral cortex
+  
 - Cranial nerves
 
 
