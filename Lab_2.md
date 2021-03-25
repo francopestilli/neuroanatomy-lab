@@ -35,5 +35,30 @@
 </div>
 
 
-  - The sinuses (Superior Sagittal Sinus, Transverse Sinus, Falx cerebri)
+#### The Dural Venous Sinuses (Superior Sagittal Sinus, Transverse Sinus, Falx cerebri)
+
+##### A model of the sinuses of the brain
+<div class="sketchfab-embed-wrapper">
+    <iframe title="Dural Venous Sinuses" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/0783c7be690b458ebcad7aaa7a8d765f/embed">
+    </iframe>
+   <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/dural-venous-sinuses-0783c7be690b458ebcad7aaa7a8d765f?utm_medium=embed&utm_campaign=share-popup&utm_content=0783c7be690b458ebcad7aaa7a8d765f" target="_blank" style="font-weight: bold; color: #1CAAD9;">Dural Venous Sinuses</a>
+        by <a href="https://sketchfab.com/docjana?utm_medium=embed&utm_campaign=share-popup&utm_content=0783c7be690b458ebcad7aaa7a8d765f" target="_blank" style="font-weight: bold; color: #1CAAD9;">Anatomy by Doctor Jana</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=0783c7be690b458ebcad7aaa7a8d765f" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
+
+##### A model of the sinuses of the brain inside the skull
+<div class="sketchfab-embed-wrapper">
+    <iframe title="CPs - Model 9: Venous Structures" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/60b7f2545b6b44ed9b8567bbc9e04c32/embed">
+    </iframe>
+   <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/cps-model-9-venous-structures-60b7f2545b6b44ed9b8567bbc9e04c32?utm_medium=embed&utm_campaign=share-popup&utm_content=60b7f2545b6b44ed9b8567bbc9e04c32" target="_blank" style="font-weight: bold; color: #1CAAD9;">CPs - Model 9: Venous Structures</a>
+        by <a href="https://sketchfab.com/SBCVL_UCSF?utm_medium=embed&utm_campaign=share-popup&utm_content=60b7f2545b6b44ed9b8567bbc9e04c32" target="_blank" style="font-weight: bold; color: #1CAAD9;">SBCVL_UCSF</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=60b7f2545b6b44ed9b8567bbc9e04c32" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
+
+##### A model of the sinuses of the brain
+
   - The arteries
