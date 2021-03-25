@@ -1,4 +1,4 @@
-## [Laboratory in Neuroanatomy](https://francopestilli.github.io/neuroanat-class/)
+## [Laboratory in Neuroanatomy](https://francopestilli.github.io/neuroanatomy-lab/)
 
 ## The Cerebellum
 
@@ -42,4 +42,4 @@ A wax-cast model of the human ventricular system.
     </p>
 </div>
 
-## [Back to Laboratory in Neuroanatomy](https://francopestilli.github.io/neuroanat-class/)
+## Back to [Laboratory in Neuroanatomy](https://francopestilli.github.io/neuroanatomy-lab/)
