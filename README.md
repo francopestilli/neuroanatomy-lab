@@ -8,7 +8,7 @@ This virtual lab in neuroanatomy is subdivided into different sections. The earl
 
 Each week we will have a lecture covering parts of the brain strctures. Below the links to labs cooresponding to each lecture and week with topics and structures.
 
-### 1. [Virtual Lab 1](Lab_1.md).  
+### [Virtual Lab 1](Lab_1.md).  
 *Cells of the Nervous System, Cortical Layers, and White Matter.*
 - Overview of major structures
 - Labeled White Matter Tracts
@@ -16,7 +16,7 @@ Each week we will have a lecture covering parts of the brain strctures. Below th
 - Ventricles
 - Subcortical structures
 
-### 2. [Virtual Lab 2](Lab_2.md).  
+### [Virtual Lab 2](Lab_2.md).  
 *Brain Packaging and Blood Supply.*
 - The packaging of the brain
   - The Skull 
@@ -28,7 +28,7 @@ Each week we will have a lecture covering parts of the brain strctures. Below th
   - The sinuses (Superior Sagittal Sinus, Transverse Sinus, Falx cerebri)
   - The arteries
 
-### 3. [Virtual Lab 3](Lab_3.md).  
+### [Virtual Lab 3](Lab_3.md).  
 *Cerebral Cortex and Cranial Nerves.*
 - The cortex
   - Major sulci of the cerebral cortex
@@ -48,7 +48,7 @@ Each week we will have a lecture covering parts of the brain strctures. Below th
   (XI) Spinal Accessory.  
   (XII) Hypoglossal.  
 
-### 4. [Virtual Lab 4](Lab_4.md).  
+### [Virtual Lab 4](Lab_4.md).  
 *Basal Ganglia and Subcortical structures.*
 
 - Putamen.
@@ -60,7 +60,7 @@ Each week we will have a lecture covering parts of the brain strctures. Below th
 - Hippocampus.
 - Amygdala.
 
-### 5. [Virtual Lab 5](Lab_5.md).  
+### [Virtual Lab 5](Lab_5.md).  
 *Cerebellum and Ventricular System.*
 
 - Cerebellum
@@ -76,7 +76,7 @@ Each week we will have a lecture covering parts of the brain strctures. Below th
   - Fourth. 
   - Choroidal Plexus.
 
-### 6. [Virtual Lab 6](Lab_6.md).  
+### [Virtual Lab 6](Lab_6.md).  
 *The Brainstem.*
 
 - Brainstem. 
