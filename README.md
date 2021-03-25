@@ -4,10 +4,6 @@ The content of this page is maintained by [Franco Pestilli](https://liberalarts.
 
 This virtual lab in neuroanatomy is subdivided into different sections. The early sections focus on anatomical strcutre, terms and organization. Later strcutres focus on the role that some of the structures play in human cognition, perception and disease.
 
-### The brain from the outside: Overview of the brain cortex and white matter.
-
-### The brain from the outside: The Meninges – Dura Mater, Arachnoid the Subarachnoid space.
-
 #### The Brain Meninges
 The 3D model below shows the brain cortex partially wrapped in the brain meniges (Dura Mater and Ararchnoid).
 
@@ -33,7 +29,7 @@ The 3D model below shows the brain cortex partially wrapped in the Ararchnoid. T
 </div>
 
 
-#### White Matter
+#### The White Matter
 The model shows portions of the corona radiata, Inferior Fronto Occipital Fasciculus (IFOF), and Uncinate. The structures are not labeled.
 
 <div class="sketchfab-embed-wrapper">
