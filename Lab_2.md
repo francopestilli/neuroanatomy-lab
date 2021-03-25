@@ -1,4 +1,4 @@
-## [Laboratory in Neuroanatomy](https://francopestilli.github.io/neuroanat-class/)
+## [Laboratory in Neuroanatomy](https://francopestilli.github.io/neuroanatomy-lab/)
 
 ## Brain Packaging and Blood Supply.
 
@@ -65,4 +65,4 @@
   - The arteries
 
 
-## [Back to Laboratory in Neuroanatomy](https://francopestilli.github.io/neuroanat-class/)
+## [Laboratory in Neuroanatomy](https://francopestilli.github.io/neuroanatomy-lab/)
