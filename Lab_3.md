@@ -1,6 +1,16 @@
 ## The Cranial Nerves
 
-- Cranial nerves
+### The Cranial nerves
+
+<div class="sketchfab-embed-wrapper">
+    <iframe title="Cranial Nerve" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="640" height="480" src="https://sketchfab.com/models/bc588bead4e14d899da6bb246d6fd699/embed">
+    </iframe>
+   <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/cranial-nerve-bc588bead4e14d899da6bb246d6fd699?utm_medium=embed&utm_campaign=share-popup&utm_content=bc588bead4e14d899da6bb246d6fd699" target="_blank" style="font-weight: bold; color: #1CAAD9;">Cranial Nerve</a>
+        by <a href="https://sketchfab.com/IT_Lab?utm_medium=embed&utm_campaign=share-popup&utm_content=bc588bead4e14d899da6bb246d6fd699" target="_blank" style="font-weight: bold; color: #1CAAD9;">TavorLab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=bc588bead4e14d899da6bb246d6fd699" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
   
   (I) Olfactory Nerve– it carries sensory information for the sense of smell into the olfactory cortex.  
   (II) Optic Nerve– it carries the visual information into the optic chiasm.  
