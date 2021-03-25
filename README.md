@@ -19,14 +19,14 @@ Below the links to each lecture with topics and structures.
 2. [Virtual Lab 2](Lab_2.md)
 *Brain Packaging and Blood Supply.*
 - The packaging of the brain
-- The Skull 
-- Dura mater
-- Arachnoid
-- Pia Mater
+  - The Skull 
+  - Dura mater
+  - Arachnoid
+  - Pia Mater
 - Blood Supply
-- The circle of Willis
-- The sinuses (Superior Sagittal Sinus, Transverse Sinus, Falx cerebri)
-- The arteries
+  - The circle of Willis
+  - The sinuses (Superior Sagittal Sinus, Transverse Sinus, Falx cerebri)
+  - The arteries
 
 3. [Virtual Lab 3](Lab_3.md)
 *Cerebral Cortex and Cranial Nerves.*
@@ -35,7 +35,18 @@ Below the links to each lecture with topics and structures.
   - Major gyri of the cerebral cortex
   
 - Cranial nerves
-
+  (I) Olfactory.
+  (II) Optic.
+  (III) Oculomotor.
+  (IV) Trochlear.
+  (V) Trigeminal. 
+  (VI) Abducent.
+  (VII) Facial.
+  (VIII) Vestibulocochlear. 
+  (IX) Glossopharingeal.
+  (X) Vagus Nerve. 
+  (XI) Spinal Accessory. 
+  (XII) Hypoglossal. 
 
 
 
