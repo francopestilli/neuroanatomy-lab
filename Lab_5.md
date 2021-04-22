@@ -16,7 +16,7 @@
 
 ### Anterior view of the cerebellum (model)
 <div class="sketchfab-embed-wrapper">
-    <iframe title="Cerebellum" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/3a4e017a202a4928b666371d075d0e21/embed">
+    <iframe title="Cerebellum" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="640" height="480" src="https://sketchfab.com/models/3a4e017a202a4928b666371d075d0e21/embed">
     </iframe>
    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/cerebellum-3a4e017a202a4928b666371d075d0e21?utm_medium=embed&utm_campaign=share-popup&utm_content=3a4e017a202a4928b666371d075d0e21" target="_blank" style="font-weight: bold; color: #1CAAD9;">Cerebellum</a>
