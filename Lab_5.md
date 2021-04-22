@@ -25,7 +25,7 @@
     </p>
 </div>
 
-### Another model with the anteriro view also.
+### Another model with the anterior view of the cerebellum.
 <div class="sketchfab-embed-wrapper">
     <iframe title="Cerebellum" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="640" height="480" src="https://sketchfab.com/models/85b02d81aeaa40cbb3ca0617fd984f6d/embed">
     </iframe>
