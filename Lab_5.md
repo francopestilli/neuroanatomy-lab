@@ -57,7 +57,7 @@ A wax-cast model of the human ventricular system.
 ### Detail of the fourth ventricle
 
 <div class="sketchfab-embed-wrapper">
-    <iframe title="Brainstem with Cranial nerves labelled" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/160a7a89ba4e48c48b626da63856bce6/embed">
+    <iframe title="Brainstem with Cranial nerves labelled" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="640" height="480" src="https://sketchfab.com/models/160a7a89ba4e48c48b626da63856bce6/embed">
     </iframe>
    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/brainstem-with-cranial-nerves-labelled-160a7a89ba4e48c48b626da63856bce6?utm_medium=embed&utm_campaign=share-popup&utm_content=160a7a89ba4e48c48b626da63856bce6" target="_blank" style="font-weight: bold; color: #1CAAD9;">Brainstem with Cranial nerves labelled</a>
